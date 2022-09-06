@@ -57,16 +57,21 @@
 // Задача 27. Написать прогу, кот принимает на вход число и выдает сумму цифр в числе
 // (452-11, 82-10)
 
-// void Number(int a)
-// {
-//     int result=0;
-//     for(int i=1; i <= a; i++){
-//         result=result + i;
+
+//   int Sum(int n){
+    
+//     int count= Convert.ToString(n).Length;
+//     int advance= 0;
+//     int result = 0;
+
+//     for (int i = 0; i < count; i++){
+//       advance = n - n % 10;
+//       result = result + (n - advance);
+//       n = n/ 10;
 //     }
-//     Console.WriteLine("сумма цифр в числе= "+ result);
-// }     
-
-// Console.Write("Введите число а: ");
-// int a= Convert.ToInt32(Console.ReadLine());
-
-// Number(a);
+//    return result;
+//   }
+// Console.Write("Введите число n: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// int sum = Sum(n);
+// Console.WriteLine("Сумма цифр в числе: " + sum);

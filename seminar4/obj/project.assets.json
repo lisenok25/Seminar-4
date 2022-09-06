@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zver\\Desktop\\Семинар 4\\seminar4\\seminar4.csproj",
+      "projectUniqueName": "C:\\Users\\Zver\\Desktop\\домашнее задание geek brains\\языки програмирования\\дз\\Семинар 4\\seminar4\\seminar4.csproj",
       "projectName": "seminar4",
-      "projectPath": "C:\\Users\\Zver\\Desktop\\Семинар 4\\seminar4\\seminar4.csproj",
+      "projectPath": "C:\\Users\\Zver\\Desktop\\домашнее задание geek brains\\языки програмирования\\дз\\Семинар 4\\seminar4\\seminar4.csproj",
       "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zver\\Desktop\\Семинар 4\\seminar4\\obj\\",
+      "outputPath": "C:\\Users\\Zver\\Desktop\\домашнее задание geek brains\\языки програмирования\\дз\\Семинар 4\\seminar4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zver\\AppData\\Roaming\\NuGet\\NuGet.Config"
